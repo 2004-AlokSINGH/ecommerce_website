@@ -1,3 +1,9 @@
+![image](https://github.com/2004-AlokSINGH/ecommerce_website/assets/123860933/ebb3e93c-b68e-4ff0-8842-5f5ce7f0578f)
+![image](https://github.com/2004-AlokSINGH/ecommerce_website/assets/123860933/748df2a7-5511-4857-aad7-94ee0ade1e4a)
+![image](https://github.com/2004-AlokSINGH/ecommerce_website/assets/123860933/9c32f8cc-9c29-4fa3-bda8-5c7c88bb8d61)
+
+
+
 # Project Name: Shopery 
 
 ## Overview
