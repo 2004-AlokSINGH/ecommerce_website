@@ -1,4 +1,4 @@
-# Project Name: My Awesome Website
+# Project Name: Shopery 
 
 ## Overview
 This project is a fully functional website built using HTML, CSS, and JavaScript. The website consists of the following pages:
